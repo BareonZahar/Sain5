@@ -1,0 +1,75 @@
+
+
+body {
+  background-image: url("https://www.woodkeep.ru/0/_upload/pexel/asphalt_autumn_beauty_db59c.jpeg");
+  background-repeat: repeat-y;
+  background-size: 100%;
+  padding: 100px;
+  background-attachment: fixed;
+}
+
+.fl{
+    float: right;
+  margin-left: 20px;
+}
+.ft{
+     float: left;
+ margin-right: 20px;
+
+}
+.fr{
+  float: right;
+  margin-left: 20px;
+}
+.fd{
+  float: left;
+   margin-right: 20px;
+}
+.fg{
+  float: right;
+  margin-left: 20px;
+}
+div {
+  background-color: rgba(64, 134, 124, 0.67);
+  padding: 10px;
+}
+h3{
+  background-color: rgba(64, 134, 124, 0.67);
+  padding-left: 200px;
+}
+img{
+  border: 5px snow;
+}
+nav{
+  text-align: center;
+    margin: 40px;
+}
+.list7{
+    padding-right: 20px;
+}
+.list8{
+    padding-right: 20px;
+}
+.list9{
+     padding-right: 20px;
+}
+.list10{
+    padding-right: 20px;
+}
+.list11 {
+    padding-right: 20px;
+}
+
+a{
+    background-color:green ;
+   margin: 50px
+}
+h4{
+    background-color: rgba(173, 255, 47, 0.27);
+}
+b{
+   color: yellow;
+}
+strong{
+   color: yellow;
+}
